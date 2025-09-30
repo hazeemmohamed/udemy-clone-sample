@@ -16,6 +16,8 @@ body{
     border-bottom: 1px solid black;
     gap: 10px;
     align-items: center;
+    position: sticky;
+    top: 0;
 }
 .navbar__s1 h1{
     color: #A435F0;
